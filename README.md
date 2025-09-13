@@ -1,4 +1,4 @@
-## 안녕하세요 👋
+## 안녕하세요 이랑 github 입니다 👋
 
 <!--
 **ERINJOS2/ERINJOS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
